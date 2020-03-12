@@ -13,8 +13,8 @@ The examples given in this course are made with the Jupyter-Notebook of the Anac
 ## References
 This course is based on material, ideas and concepts of a same named course at the University of Bern.
 
-##Author
-* j-stalder
+## Author
+* j-stalder(https://github.com/j-stalder)
 
 ## License
 
