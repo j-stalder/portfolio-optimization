@@ -15,7 +15,7 @@ The examples given in this course are made with the Jupyter-Notebook of the Anac
  Once your done with installing the Gurobi solver visit  https://www.anaconda.com/distribution/ and download the Anaconda distribution for your system (this course is based on Python 3.7). After the installation process open up the Anaconda prompt and type: conda install -c gurobi gurobi.    
 
 ## References
-This course is based on material, ideas and concepts of a same named course at the University of Bern.
+This course is based on ideas and concepts of a same named course at the University of Bern.
 
 ## Author
 * j-stalder(https://github.com/j-stalder)
