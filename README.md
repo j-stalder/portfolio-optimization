@@ -18,7 +18,7 @@ The examples given in this project are made with the Jupyter-Notebook of the Ana
 This project is inspired by the ideas and concepts of a same named project at the University of Bern.
 
 ## Author
-* j-stalder(https://github.com/j-stalder)
+* [j-stalder](https://github.com/j-stalder)
 
 ## License
 
